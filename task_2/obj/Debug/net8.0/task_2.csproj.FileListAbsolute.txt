@@ -1,0 +1,15 @@
+/home/max/C-_HW_3/task_2/bin/Debug/net8.0/task_2
+/home/max/C-_HW_3/task_2/bin/Debug/net8.0/task_2.deps.json
+/home/max/C-_HW_3/task_2/bin/Debug/net8.0/task_2.runtimeconfig.json
+/home/max/C-_HW_3/task_2/bin/Debug/net8.0/task_2.dll
+/home/max/C-_HW_3/task_2/bin/Debug/net8.0/task_2.pdb
+/home/max/C-_HW_3/task_2/obj/Debug/net8.0/task_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C-_HW_3/task_2/obj/Debug/net8.0/task_2.AssemblyInfoInputs.cache
+/home/max/C-_HW_3/task_2/obj/Debug/net8.0/task_2.AssemblyInfo.cs
+/home/max/C-_HW_3/task_2/obj/Debug/net8.0/task_2.csproj.CoreCompileInputs.cache
+/home/max/C-_HW_3/task_2/obj/Debug/net8.0/task_2.sourcelink.json
+/home/max/C-_HW_3/task_2/obj/Debug/net8.0/task_2.dll
+/home/max/C-_HW_3/task_2/obj/Debug/net8.0/refint/task_2.dll
+/home/max/C-_HW_3/task_2/obj/Debug/net8.0/task_2.pdb
+/home/max/C-_HW_3/task_2/obj/Debug/net8.0/task_2.genruntimeconfig.cache
+/home/max/C-_HW_3/task_2/obj/Debug/net8.0/ref/task_2.dll
