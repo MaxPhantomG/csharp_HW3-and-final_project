@@ -1,0 +1,15 @@
+/home/max/C-_HW_3/final_project/obj/Debug/net8.0/final_project.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C-_HW_3/final_project/obj/Debug/net8.0/final_project.AssemblyInfoInputs.cache
+/home/max/C-_HW_3/final_project/obj/Debug/net8.0/final_project.AssemblyInfo.cs
+/home/max/C-_HW_3/final_project/obj/Debug/net8.0/final_project.csproj.CoreCompileInputs.cache
+/home/max/C-_HW_3/final_project/obj/Debug/net8.0/final_project.sourcelink.json
+/home/max/C-_HW_3/final_project/bin/Debug/net8.0/final_project
+/home/max/C-_HW_3/final_project/bin/Debug/net8.0/final_project.deps.json
+/home/max/C-_HW_3/final_project/bin/Debug/net8.0/final_project.runtimeconfig.json
+/home/max/C-_HW_3/final_project/bin/Debug/net8.0/final_project.dll
+/home/max/C-_HW_3/final_project/bin/Debug/net8.0/final_project.pdb
+/home/max/C-_HW_3/final_project/obj/Debug/net8.0/final_project.dll
+/home/max/C-_HW_3/final_project/obj/Debug/net8.0/refint/final_project.dll
+/home/max/C-_HW_3/final_project/obj/Debug/net8.0/final_project.pdb
+/home/max/C-_HW_3/final_project/obj/Debug/net8.0/final_project.genruntimeconfig.cache
+/home/max/C-_HW_3/final_project/obj/Debug/net8.0/ref/final_project.dll
